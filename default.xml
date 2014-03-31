@@ -11,7 +11,6 @@
   <project path="patchrom" name="ColorOS/patchrom" />
   <project path="build" name="ColorOS/build"/>
   <project path="device" name="ColorOS/device"/>
-  <project path="others" name="ColorOS/others"/>
   <project path="smali" name="ColorOS/smali"/>
   <project path="tools" name="ColorOS/tools"/>
 </manifest>
