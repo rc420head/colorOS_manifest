@@ -8,7 +8,7 @@
           remote="origin"
           sync-j="4" />
 
-  <project path="patchrom" name="ColorOS/patchrom" />
+  <project path="manifest" name="ColorOS/manifest" />
   <project path="build" name="ColorOS/build"/>
   <project path="device" name="ColorOS/device"/>
   <project path="smali" name="ColorOS/smali"/>
