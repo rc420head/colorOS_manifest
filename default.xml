@@ -90,8 +90,6 @@
   <project path="external/json-c" name="external_json-c" remote="aqua"/>
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="aqua"/>
   <project path="external/tinycompress" name="external_tinycompress" groups="pdk" remote="aqua"/>
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="aqua"/>
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="aqua"/>
   <project path="hardware/broadcom/nfc" name="hardware_broadcom_nfc" groups="pdk" remote="aqua"/>
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="aqua"/>
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="aqua"/>
