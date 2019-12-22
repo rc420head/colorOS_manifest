@@ -105,11 +105,6 @@
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="aqua"/>
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="aqua"/>
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="aqua"/>
-  <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="aqua"/>
-  <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="aqua"/>
-  <project path="system/bt" name="system_bt" remote="aqua"/>
-  <project path="system/core" name="system_core" groups="pdk" remote="aqua"/>
-  <project path="system/vold" name="system_vold" groups="pdk" remote="aqua"/>
 
   <!-- AOSP -->
   <project path="build/kati" name="platform/build/kati" groups="pdk,tradefed" remote="aosp" />
